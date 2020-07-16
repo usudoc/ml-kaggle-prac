@@ -1,0 +1,7 @@
+user_id,game_genre,billing_amount(¥),playing_time(days)
+3,puzzle,5000.0,267
+5,shooting,2000.0,90
+1,puzzle,1000.0,98
+6,racing,300.0,16
+2,shooting,0.0,35
+4,puzzle,0.0,45

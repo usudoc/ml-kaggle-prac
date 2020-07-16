@@ -1,0 +1,7 @@
+user_id,game_genre,billing_amount(¥),playing_time(days),ranking
+1,puzzle,1000,98,153
+2,shooting,,35,978
+3,puzzle,5000,267,8
+4,puzzle,,45,1032
+5,shooting,2000,90,91
+6,racing,300,16,875

@@ -1,0 +1,5 @@
+user_id,game_genre,age,playing_time(days),device_type
+1,puzzle,17.0,98,iOS
+2,shooting,34.0,35,iOS
+3,puzzle,23.0,267,Android
+5,shooting,14.0,90,iOS
